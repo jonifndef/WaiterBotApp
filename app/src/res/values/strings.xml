@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WaiterBot App</string>
+
+    <!-- Items for navigation drawer -->
+    <string name="nav_drawer_handle_orders">Handle Orders</string>
+    <string name="nav_drawer_control_bot">Control Bot Remotely</string>
+    <string name="nav_drawer_check_connections">Check Connections</string>
+
+    <!-- Action Bar Drawer Toggle -->
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!-- Views, buttons, etc -->
+    <string name="leScanButton">Scan</string>
+    <string name="not_connected">Not connected</string>
+    <string name="connected">Connected</string>
+    <string name="go_automatic">Go automatic</string>
+
+    <!-- URL:s -->
+    <string name="GET_URL">http://178.62.213.205/get_order_details.php</string>
+    <string name="SET_URL">http://178.62.213.205/set_delivered.php</string>
+
+</resources>
